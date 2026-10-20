@@ -1,4 +1,4 @@
-import streamline as st
+import streamlit as st
 
 st.header('Lanzar una moneda')
 
